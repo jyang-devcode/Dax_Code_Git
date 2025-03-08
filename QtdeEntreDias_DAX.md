@@ -1,0 +1,9 @@
+CALCULATE(
+	CALCULATE(
+        SUM(dCalendario[DiaUtil]), 
+        DATESBETWEEN(
+            dCalendario[Data], 
+            Tabela'[colunaData1], 
+            'Tabela’[colunaData]
+        )
+)

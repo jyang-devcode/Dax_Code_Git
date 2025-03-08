@@ -1,0 +1,1 @@
+ConverteData = int([data].[Ano] & format([Data].[MonthNo],"00"))

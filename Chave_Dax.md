@@ -1,0 +1,1 @@
+chave = [coluna] & "_" & [coluna] & "_" & [coluna]
