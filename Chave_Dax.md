@@ -1,1 +1,1 @@
-chave = [coluna] & "_" & [coluna] & "_" & [coluna]
+ [coluna] & "_" & [coluna] & "_" & [coluna]

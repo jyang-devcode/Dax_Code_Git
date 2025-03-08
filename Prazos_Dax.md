@@ -1,4 +1,4 @@
-Prazo Vigente = 
+
 CALCULATE(
     MAX( 'TabPrazos'[Prazo (dias úteis)]), 
     FILTER( 
