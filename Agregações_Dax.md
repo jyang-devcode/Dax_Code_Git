@@ -1,15 +1,20 @@
-/*SUM - Soma os valores de uma coluna*/
+//SUM - Soma os valores de uma coluna
+<br>
 TotalVendas = SUM(Vendas[Valor])
-
-/*AVERAGE - Calculos de média de uma coluna*/
+<br><br>
+//AVERAGE - Calculos de média de uma coluna
+<br>
 MediaVendas = AVERAGE(Vendas[Valor])
-
-/*MIN / MAX – Menor ou maior valor de uma coluna*/
+<br><br>
+//MIN / MAX – Menor ou maior valor de uma coluna
+<br>
 MenorPreco = MIN(Produtos[Preco])
 MaiorPreco = MAX(Produtos[Preco])
-
-/*COUNT / COUNTA – Contagem de valores em uma coluna*/
+<br><br>
+//COUNT / COUNTA – Contagem de valores em uma coluna
+<br>
 TotalClientes = COUNT(Clientes[ID])
-
-/*DISTINCTCOUNT – Conta valores distintos em uma coluna*/
+<br><br>
+//DISTINCTCOUNT – Conta valores distintos em uma coluna
+<br>
 ClientesDistintos = DISTINCTCOUNT(Vendas[ClienteID])
