@@ -1,7 +1,9 @@
-/*IF – Avalia uma condição aplicada na medida*/
+<b>*IF – Avalia uma condição aplicada na medida*</b>
+<br>
 Lucro = IF(Vendas[Lucro] > 500, "Alto", "Baixo")
-
-/*SWITCH – Assim como IF, avalia a condição informada, mas para múltiplas condições*/
+<br><br>
+<b>*SWITCH – Assim como IF, avalia a condição informada, mas para múltiplas condições*</b>
+<br>
 CategoriaProduto = SWITCH(
     Produtos[Tipo],
     "Eletrônico", "Tecnologia",
